@@ -10,9 +10,9 @@ Aardvark Team is dedicated to revolutionizing the world of programming and softw
 
 We believe that collaboration is the key to innovation, and we welcome contributions from the open-source community. Whether you're a developer, designer, tester, or enthusiast, there are several ways to get involved:
 
-- **Report Issues**: If you come across a bug, have a feature request, or encounter any issues with our projects, please [open an issue](https://github.com/Aardvark-Corp/our-repo/issues) to let us know.
+- **Report Issues**: If you come across a bug, have a feature request, or encounter any issues with our projects, please open an issue to let us know.
 
-- **Submit Pull Requests**: If you'd like to contribute code or improvements to our projects, please fork our repository, make your changes, and submit a [pull request](https://github.com/Aardvark-Corp/our-repo/pulls).
+- **Submit Pull Requests**: If you'd like to contribute code or improvements to our projects, please fork our repository, make your changes, and submit a pull request.
 
 - **Documentation**: Help us improve our documentation by suggesting edits or adding valuable content.
 
