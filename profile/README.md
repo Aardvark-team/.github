@@ -34,6 +34,6 @@ Stay up-to-date with the latest news, updates, and announcements from Aardvark T
 
 - Join our community on [Discord](https://discord.gg/ESF5sb8tHd).
   
-- Also check out [Everyone's Programming Server](https://discord.gg/hBqChPvyCN)
+- Also check out [Everyone's Programming Server](https://discord.gg/hBqChPvyCN).
 
 Thank you for your interest in Aardvark Team. Together, we're shaping the future of software development. 🌟
