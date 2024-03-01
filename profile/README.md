@@ -20,7 +20,7 @@ We believe that collaboration is the key to innovation, and we welcome contribut
 
 You can find our documentation and project-specific resources in the following locations:
 
-- **Documentation**: Visit our [official documentation](https://aardvark-docs.programit.repl.co/) for in-depth guides, tutorials, and articles.
+- **Documentation**: Visit our [official documentation](https://aardvark-docs.replit.app/) for in-depth guides, tutorials, and articles.
 
 - **AdkCode**: Visit our online Aardvark environment on [AdkCode](https://adkcode.onrender.com/).
 
