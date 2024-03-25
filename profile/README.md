@@ -22,7 +22,7 @@ You can find our documentation and project-specific resources in the following l
 
 - **Documentation**: Visit our [official documentation](https://aardvark-docs.replit.app/) for in-depth guides, tutorials, and articles.
 
-- **AdkCode**: Visit our online Aardvark environment on [AdkCode](https://adkcode.onrender.com/).
+- **AdkCode**: Visit our online Aardvark environment on [AdkCode](https://adkcode.replit.app/).
 
 - **Projects**: Explore our open-source projects on [GitHub](https://github.com/Aardvark-team/).
 
